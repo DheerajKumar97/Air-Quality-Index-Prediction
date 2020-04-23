@@ -34,11 +34,11 @@ The models are built using data driven and regression based techniques to obtain
 
 # Model Accuracy 
 
- #                       # R2_Score	          RMSE	          MSE	              MAE
-# Model				
-# Desicion Tree	           0.648079	          50.485125	         2548.747819	       24.255094
-# Cross_Validated_DTree    0.569868	          55.813792	         3115.179380	       40.505720
-# Random Forest	           0.762237	          41.496613	         1721.968918	       29.188837
-# Cross_Validated_RF	     0.819211	          36.184870	         1309.344807	       22.567863
-# XGboost	                 0.762237	          41.496613	         1721.968918	       29.188837
-# Cross_Validated_Xgb	     0.836624	          34.398088	         1721.968918	       29.188837
+ ##                       # R2_Score	          RMSE	          MSE	              MAE
+#### Model				
+#### Desicion Tree	           0.648079	          50.485125	         2548.747819	       24.255094
+#### Cross_Validated_DTree    0.569868	          55.813792	         3115.179380	       40.505720
+#### Random Forest	           0.762237	          41.496613	         1721.968918	       29.188837
+#### Cross_Validated_RF	     0.819211	          36.184870	         1309.344807	       22.567863
+#### XGboost	                 0.762237	          41.496613	         1721.968918	       29.188837
+#### Cross_Validated_Xgb	     0.836624	          34.398088	         1721.968918	       29.188837
